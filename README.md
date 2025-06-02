@@ -1,8 +1,8 @@
-# 7 challenge
+# Readme Generator
  ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
  ## Description
- i needed to make sure i got a good grade
+ To generate readme's with easier ability
 
  ## Table of Contents
  - [Description](#description)
@@ -15,13 +15,13 @@
  - [Additional Info](#additional-info)
 
  ## Installation
- a lot
+ Making sure everything works
 
  ## Usage
- generating files
+ I will be able to generate readme's with ease thanks to this 
 
  ## Credits
- me
+ I did
 
  ## License
  This project is licensed under MIT.
@@ -31,8 +31,8 @@
  ## About
  jaredowens4@gmail.com
 
- https://github.com/jaredowens
+ https://github.com/jaredowens/readme_generator
 
  ## Tests
- runningi t
- 
+ making sure it adds readme's
+ https://app.screencastify.com/v2/watch/mNYXUN2uY0KLpsNJ09Gn
